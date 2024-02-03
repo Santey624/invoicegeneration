@@ -1,0 +1,2 @@
+,bankname,accountnumber,invoice,date,duedate,taxamount,vatvalue,total,amountinwords,codename,itemname,rate,amount,type
+0,siddhartha bank,5.46E+11,64554,9/25/2080 0:00,11/5/2080 0:00,NPR 280.00,NPR 42.00,NPR 322.00,three hundred and twenty two rupees only,45444AB,Deployment of POS Terminals,NPR 280.00,NPR 280.00,savings
